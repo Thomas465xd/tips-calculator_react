@@ -19,3 +19,7 @@ Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
+
+---
+
+Made with ♥️ Thomas Schrödinger
